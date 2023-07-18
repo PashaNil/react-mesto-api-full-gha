@@ -7,7 +7,7 @@
 
 Адрес репозитория: https://github.com/PashaNil/react-mesto-auth/tree/main
 
-## Ссылки на проект
+## Ссылки на проекt
 
 IP-адрес 158.160.54.168
 
