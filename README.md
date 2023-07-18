@@ -5,12 +5,12 @@
   
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://github.com/...
+Адрес репозитория: https://github.com/PashaNil/react-mesto-auth/tree/main
 
 ## Ссылки на проект
 
-IP-адрес x.x.x.x
+IP-адрес 158.160.54.168
 
-Frontend https://...
+Frontend https://mesto.danilov.nomoredomains.work/
 
-Backend https://...
+Backend https://api.mesto.danilov.nomoredomains.work/

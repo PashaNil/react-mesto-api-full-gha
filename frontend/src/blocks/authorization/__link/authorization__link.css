@@ -1,0 +1,12 @@
+.authorization__link {
+    font-family: "Inter", "Arial", sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}

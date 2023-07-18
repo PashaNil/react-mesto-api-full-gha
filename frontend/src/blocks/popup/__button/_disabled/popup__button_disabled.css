@@ -1,0 +1,12 @@
+.popup__button_disabled {
+  opacity: .2;
+  transition: visibility .5s, opacity .5s linear;
+  color: rgb(0, 0, 0);
+  background-color: #00000000;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.popup__button_disabled:hover {
+  cursor: default;
+  opacity: .2;
+}

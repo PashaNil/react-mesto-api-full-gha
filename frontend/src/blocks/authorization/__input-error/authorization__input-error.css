@@ -1,0 +1,21 @@
+.authorization__input-error{
+        font-family: "Inter", "Arial", sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        width: 100%;
+        color: #FF0000;
+        padding: 0;
+        margin: 5px 0 0 0;
+        box-sizing: border-box;
+        min-height: 30px;
+        display: flex;
+        visibility: hidden;
+        opacity: 0;
+        transition: visibility .5s, opacity .5s linear;
+}
+
+.authorization__input-error:last-of-type{
+  margin-bottom: 0;
+}

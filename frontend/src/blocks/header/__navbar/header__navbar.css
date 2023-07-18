@@ -1,0 +1,14 @@
+.header__navbar{
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto;
+  column-gap: 24px;
+    margin: 0;
+    padding: 0;
+}
+
+@media screen and (max-width:918px) {
+    .header__navbar {
+      margin: 0 27px 0 0;
+    }
+  }
