@@ -5,11 +5,11 @@
   
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://github.com/PashaNil/react-mesto-auth/tree/main
+Адрес репозитория: https://github.com/PashaNil/react-mesto-api-full-gha
 
 ## Ссылки на проекt
 
-IP-адрес 158.160.36.198
+IP-адрес 62.84.118.183
 
 Frontend https://mesto.danilov.nomoredomains.work/
 
