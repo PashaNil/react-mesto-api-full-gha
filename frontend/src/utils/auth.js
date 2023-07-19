@@ -1,6 +1,6 @@
 import { getResponseData } from "./getResponseData";
 
-export const baseUrl = "http://localhost:3000";
+export const baseUrl = "https://api.mesto.danilov.nomoredomains.work";
 
 export const register = (email, password) => {
     return fetch(`${baseUrl}/signup`, {

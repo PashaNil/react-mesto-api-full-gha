@@ -57,23 +57,7 @@ class Api {
       body: JSON.stringify(avatarData)
     })
   }
-
-/*   // Обновление данных лайка на сервере
-  addLikeNumber(cardId) {
-    const url = this._url + `/cards/${cardId}/likes`
-    return this._request(url, {
-      method: "PUT"
-    })
-  } */
-
-/*   // Удаление лайка
-  deletLikeNumber(cardId) {
-    const url = this._url + `/cards/${cardId}/likes`
-    return this._request(url, {
-      method: "DELETE"
-    })
-  } */
-
+  
   // Обновление данных лайка
   changeLikeCardStatus(cardId, isLiked){
     const likeMethod = isLiked ? "DELETE" : "PUT";
@@ -94,7 +78,7 @@ class Api {
 }
 
 const apiConfig = {
-  url: "http://localhost:3000",
+  url: "https://api.mesto.danilov.nomoredomains.work",
   headers: {
     authorization: `${localStorage.getItem("token")}`,
     "Content-Type": "application/json",
