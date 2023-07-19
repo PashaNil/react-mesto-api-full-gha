@@ -9,7 +9,7 @@
 
 ## Ссылки на проекt
 
-IP-адрес 158.160.54.168
+IP-адрес 158.160.36.198
 
 Frontend https://mesto.danilov.nomoredomains.work/
 
