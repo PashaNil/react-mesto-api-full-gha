@@ -1,8 +1,8 @@
 const bcrypt = require('bcrypt');
 const { mongoose } = require('mongoose');
 
-const UserModel = require('../models/user');
 const { SALT_ROUNDS = 10 } = process.env;
+const UserModel = require('../models/user');
 const { generateToken } = require('../utils/jwt');
 
 const BadRequestError = require('../errors/BadRequestError'); // 400

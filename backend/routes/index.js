@@ -7,9 +7,9 @@ const authMiddlewares = require('../middlewares/auth');
 const NotFoundError = require('../errors/NotFoundError'); // 404
 
 router.use('/crash-test', () => {
-    setTimeout(() => {
-        throw new Error('Сервер сейчас упадёт');
-    }, 0);
+  setTimeout(() => {
+    throw new Error('Сервер сейчас упадёт');
+  }, 0);
 });
 
 router.use('', authRoutes);
