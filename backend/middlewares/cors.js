@@ -6,8 +6,8 @@ const allowedCors = [
   'http://localhost:3001',
   'https://mesto.danilov.nomoredomains.work',
   'http://mesto.danilov.nomoredomains.work',
-  'https://https://api.mesto.danilov.nomoredomains.work/',
-  'http://https://api.mesto.danilov.nomoredomains.work/',
+  'https://https://api.mesto.danilov.nomoredomains.work',
+  'http://https://api.mesto.danilov.nomoredomains.work',
 ];
 
 // Значение для заголовка Access-Control-Allow-Methods по умолчанию (разрешены все типы запросов)
